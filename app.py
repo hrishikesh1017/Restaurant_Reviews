@@ -89,10 +89,8 @@ custom_css = """
         margin-top:40px;
     }
 
-    ['data-testid="stMarkdownContainer"]{
-
-        color:yellow;
-
+    [data-testid="stMarkdownContainer"]{
+        color: #000000;
     }
 
 </style>
